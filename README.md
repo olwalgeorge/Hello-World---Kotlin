@@ -1,6 +1,6 @@
 # Overview
 
-As a software engineer looking to expand my programming language knowledge, I created this Kotlin Hello World application to familiarize myself with Kotlin's syntax and development environment. This simple console application demonstrates the basic structure of a Kotlin program and serves as my first step into the Kotlin ecosystem.
+As a software developer looking to expand my programming language knowledge, I created this Kotlin Hello World application to familiarize myself with Kotlin's syntax and development environment. This simple console application demonstrates the basic structure of a Kotlin program and serves as my first step into the Kotlin ecosystem.
 
 The software is a fundamental "Hello, World!" program that outputs a greeting message to the console. While simple in nature, it establishes the foundation for understanding Kotlin's function declarations, entry points, and standard output operations.
 
